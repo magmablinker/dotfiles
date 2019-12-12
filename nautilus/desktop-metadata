@@ -1,0 +1,29 @@
+[directory]
+nautilus-icon-view-keep-aligned=true
+nautilus-icon-view-layout-timestamp=1576142211
+nautilus-desktop-icon-size=48
+
+[trash]
+nautilus-icon-position-timestamp=1576142211
+nautilus-icon-position=56,26
+icon-scale=1
+
+[UBUNTU 18_0.volume]
+nautilus-icon-position-timestamp=1544546106
+nautilus-icon-position=56,146
+icon-scale=1
+
+[homes on srv01wohnzimmer.local.volume]
+nautilus-icon-position=56,386
+icon-scale=1
+nautilus-icon-position-timestamp=1544720454
+
+[homes on 192.168.0.199.volume]
+nautilus-icon-position=56,386
+icon-scale=1
+nautilus-icon-position-timestamp=1545119031
+
+[Windows.volume]
+nautilus-icon-position=56,386
+icon-scale=1
+nautilus-icon-position-timestamp=1545132621
